@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
-    "build": "npm ./bin/www"
+    "build": "node ./bin/www"
   },
   "dependencies": {
     "cloudinary": "^1.32.0",
